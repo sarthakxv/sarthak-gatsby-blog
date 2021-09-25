@@ -47,6 +47,7 @@ description: These blog contains notes from Personal Networking explained by Ank
 
 
 ---
+<br>
 
-These points are noted from following video, Click to checkout:
+These points are summerised from following video:
 [![Everything Is AWESOME](thumbnail.png)](https://www.youtube.com/watch?v=NZw4hNJGgSQ&feature=youtu.be "thumbnail")
